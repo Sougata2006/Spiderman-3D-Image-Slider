@@ -1,6 +1,6 @@
 # 🕷️ Spiderman-3D-Image-Slider
 
-![Spider-Man Banner](images/preview.png)  
+![Spider-Man Banner](images/preview.jpg)  
 
 ---
 
